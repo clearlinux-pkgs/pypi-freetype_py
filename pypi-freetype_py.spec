@@ -7,7 +7,7 @@
 #
 Name     : pypi-freetype_py
 Version  : 2.4.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/a7/6d/66c222fae5dc5fd13fd840ab75feb49f78963f560a56e134c85f1236a94c/freetype-py-2.4.0.zip
 Source0  : https://files.pythonhosted.org/packages/a7/6d/66c222fae5dc5fd13fd840ab75feb49f78963f560a56e134c85f1236a94c/freetype-py-2.4.0.zip
 Summary  : Freetype python bindings
